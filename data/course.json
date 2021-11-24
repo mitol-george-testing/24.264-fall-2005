@@ -1,0 +1,35 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Film and Video"
+    ],
+    [
+      "Humanities",
+      "Philosophy"
+    ],
+    [
+      "Humanities",
+      "Literature"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "958bc8cc-5744-f2d8-26a7-d083922b71d4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Film as Visual and Literary Mythmaking",
+  "course_description": "This course examines problems in the philosophy of film as well as literature studied in relation to their making of myths. The readings and films that are discussed in this course draw upon classic myths of the western world. Emphasis is placed on meaning and technique as the basis of creative value in both media.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.264",
+  "learning_resource_types": [
+    "Lecture Videos"
+  ],
+  "title": "Course Metadata"
+}
